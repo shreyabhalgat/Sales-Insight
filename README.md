@@ -32,11 +32,17 @@ Tableau Project to Get the Insights of the Sales
 # Data Insights Drawn using SQl-
 
 1.Total Number of Customers ->38
+
 2.Total Number of Transactions For chennai Market->1050
+
 3.Number of Transactions in USD Currency->2
+
 4.Transactions in year 2020 by using Joins
+
 5.Total Revenue in 2020
+
 6.Total revenue in chennai
+
 
 <hr>
 ## Simple Insights
