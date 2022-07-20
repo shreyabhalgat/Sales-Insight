@@ -39,7 +39,7 @@ Tableau Project to Get the Insights of the Sales
 
 4.Transactions in year 2020 by using Joins
 
-5.Total Revenue in 2020
+5.Total Revenue in 2020-142 Billion
 
 6.Total revenue in chennai
 
