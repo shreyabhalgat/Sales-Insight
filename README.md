@@ -52,4 +52,8 @@ Tableau Project to Get the Insights of the Sales
 3. Top customers by Revenue and Sales Quantity
 
 
-
+## Steps Followed
+1.Load the Data in the SQL 
+2.Using SQL Queries get some Insights about the Data
+3.Connect the SQL data to Tableau Desktop
+4.Create Your Own Data Model Using Tableau Public
