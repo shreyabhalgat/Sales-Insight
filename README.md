@@ -29,7 +29,7 @@ Tableau Project to Get the Insights of the Sales
 
 <hr>
 
-# Data Insights Drawn using SQl-
+# Data Insights Drawn using SQL-
 
 1.Total Number of Customers ->38
 
