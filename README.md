@@ -53,7 +53,9 @@ Tableau Project to Get the Insights of the Sales
 
 <hr>
 
+
 ## Steps Followed
+
 1.Load the Data in the SQL 
 
 2.Using SQL Queries get some Insights about the Data
