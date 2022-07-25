@@ -62,6 +62,9 @@ Tableau Project to Get the Insights of the Sales
 4.Create Your Own Data Model Using Tableau Public(Star Schema)
 
 5.Extract Transform Load - Performing Data Cleaning in Tableau
+
     i. Removed Negative and Zero Sales Amount
+    
     ii. Removed the Market Code which were Located out of India
+    
     iii.Converted USD currency Transactions into INR
