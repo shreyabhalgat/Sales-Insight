@@ -51,6 +51,7 @@ Tableau Project to Get the Insights of the Sales
 2. Revenue Breakdown by years and months
 3. Top customers by Revenue and Sales Quantity
 
+<hr>
 
 ## Steps Followed
 1.Load the Data in the SQL 
@@ -68,3 +69,7 @@ Tableau Project to Get the Insights of the Sales
     ii. Removed the Market Code which were Located out of India
     
     iii.Converted USD currency Transactions into INR
+    
+  6.Creating Different Visual Tableau Sheets
+  
+  7.Creating Dashboard
